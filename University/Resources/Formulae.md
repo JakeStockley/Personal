@@ -23,6 +23,6 @@ $$F=qE$$
 Current, Voltage and Resistance:  
 $$V=IR$$  
 Resistors in series:  
-$$R_T=R_1+R_2+\cdots+R_n$$
+$$R_T=R_1+R_2+\cdots+R_n$$  
 Resistors in parallel:  
-$$R_T=\left(R_1^{-1}+R_2^{-1}+\cdots+R_n^{-1}\right)^{-1}$$  
+$R_T=\left(R_1^{-1}+R_2^{-1}+\cdots+R_n^{-1}\right)^{-1}$  
