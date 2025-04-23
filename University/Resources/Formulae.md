@@ -24,9 +24,26 @@ $E=\frac{V}{d}$
 Force on a charge in a field:  
 $F=qE$  
 ## Resistance  
-Current, Voltage and Resistance:  
-$V=IR$  
+Current, Voltage and Resistance OR Reactance :  
+$V=I(R/X)$  
 Resistors in series:  
 $R_T=R_1+R_2+\cdots+R_n$  
 Resistors in parallel:  
 $R_T=\left(R_1^{-1}+R_2^{-1}+\cdots+R_n^{-1}\right)^{-1}$  
+## Capacitors  
+Capacitance of a parralel plate capacitor:  
+$C=\frac{\epsilon_0\epsilon_rA}{d}$  
+Charge stored:  
+$Q=CV$  
+Energy stored:  
+$E=\frac12CV^2$  
+Capacitors in series:  
+$C_T=(C_1^{-1}+C_2^{-1}+\cdots+C_n^{-1})^{-1}$  
+Capacitors in parallel:  
+$C_T=C_1+C_2+\cdots+C_n$  
+Capacitor charging quantity X:  
+$X_t=X_0\times{(1-e^{-\frac{t}{RC}})}$  
+Capacitor discarging quantity X:  
+$X_t=X_0\times{e^{-\frac{t}{RC}}}$  
+Capacitive reactance:  
+$X=\frac{1}{2\pi{f}C_T}$  
