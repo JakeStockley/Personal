@@ -6,7 +6,7 @@ $P=\frac{E}{t}$
 Root Mean Square of a sinusoidal wave:  
 $RMS=\frac{\text{Peak Amplitude}}{\sqrt{2}}$  
 Root Mean Square for any wave:  
-$RMS={\frac{f(t)^2}{T}}^\frac12$  
+$RMS={\left(\frac{f(t)^2}{T}\right)}^\frac12$  
 # Electronics  
 ## Power  
 Power dissapated through a resistor:  
