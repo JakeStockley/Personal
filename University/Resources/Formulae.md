@@ -47,3 +47,8 @@ Capacitor discarging quantity X:
 $X_t=X_0\times{e^{-\frac{t}{RC}}}$  
 Capacitive reactance:  
 $X=\frac{1}{2\pi{f}C_T}$  
+RC differance in phase:  
+$\Delta\theta=\tan^{-1}((\omega{RC})^{-1})$  
+## Inductors  
+Inductance of a coil:  
+$L=\frac{\mu{N^2}A}{l}$  
