@@ -3,6 +3,8 @@ This is a list of all formulae I have come across during my revision for the may
 # Not Module-Spesific  
 Power:  
 $P=\frac{E}{t}$  
+Root Mean Square of a sinusoidal wave:  
+$RMS=\frac{\text{Peak Amplitude}}{\sqrt{2}}$  
 # Electronics  
 ## Power  
 Power dissapated through a resistor:  
