@@ -52,3 +52,7 @@ $\Delta\theta=\tan^{-1}((\omega{RC})^{-1})$
 ## Inductors  
 Inductance of a coil:  
 $L=\frac{\mu{N^2}A}{l}$  
+# Mathematics  
+## Integration  
+Integral of a variable power
+$\int{an^{bx}}=\frac{a}{b\ln{n}}\times{n^{bx}}$  
