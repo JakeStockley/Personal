@@ -53,6 +53,9 @@ $\Delta\theta=\tan^{-1}((\omega{RC})^{-1})$
 Inductance of a coil:  
 $L=\frac{\mu{N^2}A}{l}$  
 # Mathematics  
+## Trigonometry  
+$\sin^2(\theta)+\cos^2(\theta)=1$  
+$\sin(2\theta)=2\sin\theta\cos\theta$  
 ## Integration  
 Integral of a variable power
 $\int{an^{bx}}=\frac{a}{b\ln{n}}\times{n^{bx}}$  
