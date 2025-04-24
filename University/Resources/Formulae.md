@@ -56,6 +56,7 @@ $L=\frac{\mu{N^2}A}{l}$
 ## Trigonometry  
 $\sin^2(\theta)+\cos^2(\theta)=1$  
 $\sin(2\theta)=2\sin\theta\cos\theta$  
+$\sinh^2(\theta)+\cosh^2(\theta)=1$  
 ## Integration  
 Integral of a variable power
 $\int{an^{bx}}=\frac{a}{b\ln{n}}\times{n^{bx}}$  
